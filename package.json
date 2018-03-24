@@ -12,5 +12,10 @@
     "METROPOLITANO"
   ],
   "author": "Miriam Mendoza, Glisse Jorge\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[ y \u001b[D\u001b[CGlisee Jorge",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongodb": "^3.0.5"
+  }
 }
