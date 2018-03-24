@@ -7,7 +7,7 @@
 #### API RESTfull para Metropolitano (24 -03 -2018)
 ##### Información General del API
 
-* La base del endpoints es : **https://api.binance.com**
+* La base del endpoints es : **https://metropolitano-workshop.firebaseapp.com/**
 * Todos los puntos finales devuelven un objeto o matriz JSON.
 
 
