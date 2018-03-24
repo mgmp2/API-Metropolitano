@@ -1,0 +1,16 @@
+{
+  "name": "metropolitano",
+  "version": "1.0.0",
+  "description": "Proyecto creando un RESTfull para consultas del METROPOLITANO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "RESTFULL",
+    "METROPOLITANO"
+  ],
+  "author": "Miriam Mendoza, Glisse Jorge\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[ y \u001b[D\u001b[CGlisee Jorge",
+  "license": "ISC"
+}
